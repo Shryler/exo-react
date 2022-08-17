@@ -17,6 +17,24 @@
       "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. ",
       "date": 1621536056135,
       "id": 3
+    },
+    {
+      "author": "Kévin",
+      "content": "poris vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit mDA",
+      "date": 1660766077107,
+      "id": 5
+    },
+    {
+      "author": "Raphael",
+      "content": " consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\n",
+      "date": 1660766201052,
+      "id": 6
+    },
+    {
+      "author": "Jean-Robert",
+      "content": "The code above renders a single button that when clicked, calls the refreshPage function which triggers the window.location.reload method. We can even call the reload method inline in the onClick handler, like so:",
+      "date": 1660768181489,
+      "id": 8
     }
   ]
 }
