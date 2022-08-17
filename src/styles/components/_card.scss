@@ -17,9 +17,11 @@
   &:hover .infos {
     opacity: 1;
     transform: scaleY(1);
+    padding:10px;
   }
 
   .infos {
+    cursor: pointer;
     position: absolute;
     top: 0;
     left: 0;
